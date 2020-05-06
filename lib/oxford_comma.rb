@@ -7,5 +7,5 @@ def oxford_comma(array)
    else array.count >= 3
 #     return array[0..-2].join(", ") + ", and " + array[-1]   
 #     # (array[-1] with ",")    #add comma and "and" in a three-element array
-#   end
-# end
+   end
+ end
